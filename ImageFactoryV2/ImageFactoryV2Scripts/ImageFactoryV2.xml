@@ -1,0 +1,12 @@
+﻿<Settings>
+<DeploymentShare>\\MDT01\MDTBuildLab$</DeploymentShare>
+<HyperVHost>Localhost</HyperVHost>
+<HyperVHostNetwork>AWD_Internal</HyperVHostNetwork>
+<HyperVStorage>D:\VMs</HyperVStorage>
+<HyperVISOFolder>D:\ISO</HyperVISOFolder>
+<HardwareProfile>MDT 2010 Profile</HardwareProfile>
+<TaskSequenceFolder>MDT:\Task Sequences\REF</TaskSequenceFolder>
+<StartUpRAM>2</StartUpRAM>
+<VLANID>0</VLANID>
+<VHDSize>60</VHDSize>
+</Settings>
